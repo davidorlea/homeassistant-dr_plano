@@ -1,7 +1,7 @@
 {
   "domain": "dr_plano",
   "name": "Dr. Plano Sensor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "documentation": "https://github.com/davidorlea/homeassistant-dr_plano",
   "issue_tracker": "https://github.com/davidorlea/homeassistant-dr_plano/issues",
   "dependencies": [],
